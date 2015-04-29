@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/jackson-all-1.9.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/eclipselink.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/ehcache-core-2.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/hibernate-commons-annotations-4.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/hibernate-core-4.3.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/hibernate-ehcache-4.3.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/hibernate-entitymanager-4.3.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/hibernate-jpamodelgen-4.3.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/hibernate-validator-4.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/hibernate-validator-annotation-processor-4.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/jandex-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/jboss-logging-3.1.3.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/jboss-logging-annotations-1.2.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/mysql-connector-java-5.1.22-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Desktop/MSViz/Training/Hibernate/JPALibraries/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/puneeth.narayana/Downloads/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
